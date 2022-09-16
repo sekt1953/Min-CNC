@@ -35,7 +35,7 @@
   * Midplane: true
   * Reversed: false
 
-## 3. Sketch
+## 3. Sketch for M3 umbraco skruehoved
 
 ![BallBearingAndStepperMotor_Fillet.png](./BallBearingAndStepperMotor_Pocket006-Sketch002.png)
 
@@ -51,7 +51,7 @@
   * Midplane: false
   * Reversed: true
 
-## 4. Sketch
+## 4. Sketch for fordybning for motor mount
 
 ![BallBearingAndStepperMotor_Fillet.png](./BallBearingAndStepperMotor_Pocket007-Sketch003.png)
 
@@ -68,7 +68,7 @@
   * Reversed: false
 
 
-## 5. Sketch
+## 5. Sketch fordybning til RASK Kuglelejer ABEC-9
 
 ![BallBearingAndStepperMotor_Fillet.png](./BallBearingAndStepperMotor_Pocket008-Sketch008.png)
 
