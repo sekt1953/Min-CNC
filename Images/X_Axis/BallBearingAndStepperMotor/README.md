@@ -3,6 +3,8 @@
 ## Slut Resultat
 
 ![BallBearingAndStepperMotor_Fillet.png](./BallBearingAndStepperMotor_Fillet.png)
+![BallBearingAndStepperMotor_Fillet.stl](/FreeCad-files/X_Axis/Mount_BallBearingAndStepperMotor/stl/CNC-Mount_BallBearingAndStepperMotor-Body-Leje-Motor.stl)
+
 
 ## 1. Sketch
 
