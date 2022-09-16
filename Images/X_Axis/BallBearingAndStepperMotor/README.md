@@ -68,7 +68,7 @@
   * Reversed: false
 
 
-## 5. Sketch fordybning til RASK Kuglelejer ABEC-9
+## 5. Sketch fordybning til RASK Kuglelejer ABEC-9 8x22x7 mm
 
 ![BallBearingAndStepperMotor_Fillet.png](./BallBearingAndStepperMotor_Pocket008-Sketch008.png)
 
