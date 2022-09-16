@@ -55,7 +55,38 @@
 
 ![BallBearingAndStepperMotor_Fillet.png](./BallBearingAndStepperMotor_Pocket007-Sketch003.png)
 
+* Sketch
+  * Support: XY_Plane
+  * Attachment Offset
+    * Position
+      * x: 0,00 mm
+      * y: 0,00 mm
+      * z: 3,00 mm
+* Pocket
+  * Type: ThroughAll
+  * Midplane: false
+  * Reversed: false
+
+
 ## 5. Sketch
 
 ![BallBearingAndStepperMotor_Fillet.png](./BallBearingAndStepperMotor_Pocket008-Sketch008.png)
 
+* Sketch
+  * Support: XY_Plane
+  * Attachment Offset
+    * Position
+      * x: 0,00 mm
+      * y: 0,00 mm
+      * z: 7,00 mm
+* Pocket
+  * Type: ThroughAll
+  * Midplane: false
+  * Reversed: true
+
+## 6. Fillet
+
+![BallBearingAndStepperMotor_Fillet.png](./BallBearingAndStepperMotor_Fillet.png)
+
+* Fillet
+  * Radius: 2,00 mm
