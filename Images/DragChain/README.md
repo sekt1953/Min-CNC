@@ -4,6 +4,9 @@
 
 ![EndProduct.png](./Bund/EndProduct.png)
 
+FreeCAD File: [DragChainBund_22.5.FCStd](../../FreeCad-files/DragChain/DragChainBund_22.5.FCStd)
+STL File: [](../../)
+
 ### 1. Sketch
 
 ![Sketch000.png](./Bund/Sketch000.png)
