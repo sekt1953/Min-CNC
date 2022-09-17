@@ -4,8 +4,10 @@
 
 ![EndProduct.png](./Bund/EndProduct.png)
 
-FreeCAD File: [DragChainBund_22.5.FCStd](../../FreeCad-files/DragChain/DragChainBund_22.5.FCStd)
-STL File: [](../../)
+| File | Link |
+| ---  | ---  |
+| FreeCAD | [DragChainBund_22.5.FCStd](../../FreeCad-files/DragChain/DragChainBund_22.5.FCStd)|
+| STL | [DragChainBund_22.5-Body.stl](../../FreeCad-files/DragChain/stl/DragChainBund_22.5-Body.stl) |
 
 ### 1. Sketch
 
