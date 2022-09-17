@@ -2,18 +2,18 @@
 
 ## DragThain_Bund
 
-![](./Bund/EndProduct.png)
+![EndProduct.png](./Bund/EndProduct.png)
 
 ### 1. Sketch
 
-![](./Bund/Sketch000.png)
+![Sketch000.png](./Bund/Sketch000.png)
 
 * Sketch
   * Support: XZ_Plane
   * Attachment Offset
     * Position: (x: 0,00 mm, y: 0,00 mm, z: 0,00 mm)
 
-![](./Bund/Pad.png)
+![Pad.png](./Bund/Pad.png)
 
 * Pad
   * Type: Length
@@ -21,14 +21,14 @@
 
 ### 2. Sketch001
 
-![](./Bund/Sketch001.png)
+![Sketch001.png](./Bund/Sketch001.png)
 
 * Sketch
   * Support: XZ_Plane
   * Attachment Offset
     * Position: (x: 0,00 mm, y: 0,00 mm, z: 0,00 mm)
 
-![](./Bund/Pocket.png)
+![Pocket.png](./Bund/Pocket.png)
 
 * Pocket
   * Type: Length
@@ -37,14 +37,14 @@
 
 ### 3. Sketch002
 
-![](./Bund/Sketch002.png)
+![Sketch002.png](./Bund/Sketch002.png)
 
 * Sketch
   * Support: XZ_Plane
   * Attachment Offset
     * Position: (x: 0,00 mm, y: 0,00 mm, z: 0,00 mm)
 
-![](./Bund/Pocket001.png)
+![Pocket001.png](./Bund/Pocket001.png)
 
 * Pocket
   * Type: Length
@@ -53,14 +53,14 @@
 
 ### 4. Sketch003
 
-![](./Bund/Sketch003.png)
+![Sketch003.png](./Bund/Sketch003.png)
 
 * Sketch
   * Support: YZ_Plane
   * Attachment Offset
     * Position: (x: 0,00 mm, y: 0,00 mm, z: 0,00 mm)
 
-![](./Bund/Pocket002.png)
+![Pocket002.png](./Bund/Pocket002.png)
 
 * Pocket
   * Type: ThroughAll
@@ -70,14 +70,14 @@
 
 ### 5. Sketch004
 
-![](./Bund/Sketch004.png)
+![Sketch004.png](./Bund/Sketch004.png)
 
 * Sketch
   * Support: XY_Plane
   * Attachment Offset
     * Position: (x: 0,00 mm, y: 0,00 mm, z: 0,00 mm)
 
-![](./Bund/Pocket003.png)
+![Pocket003.png](./Bund/Pocket003.png)
 
 * Pocket
   * Type: ThroughAll
