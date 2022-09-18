@@ -4,17 +4,17 @@
 
 | Basic | Basic A 22,5° | Basic B 22,5° |
 | ---   | ---           | ---           |
-|![DragChainBasic.png](./Basic/DragChainBasic.png)|![DragChainBasicA.png](./Basic/Pocket004A.png)|![DragChainBasicB.png](./Basic/Pocket004B.png)|
+|![DragChainBasic.png](./Images/Basic/DragChainBasic.png)|![DragChainBasicA.png](./Images/Basic/Pocket004A.png)|![DragChainBasicB.png](./Images/Basic/Pocket004B.png)|
 
 
 | File   | Basic | Basic A 22,5° | Basic B 22,5° |
 | ---    | ---   | ---           | ---           |
-|FreeCAD |[DragChainBasic.FCStd](../../FreeCad-files/DragChain/DragChainBasic_22.5.FCStd)|[DragChainBasicA.FCStd](../../FreeCad-files/DragChain/DragChainA_22.5.FCStd)|[DragChainBasicB.FCStd](../../FreeCad-files/DragChain/DragChainB_22.5.FCStd)|
-| STL    ||[DragChainBasicA.stl](../../FreeCad-files/DragChain/stl/DragChain_22.5_A.stl)|[DragChainBasicB.stl](../../FreeCad-files/DragChain/stl/DragChain_22.5_B.stl)|
+|FreeCAD |[DragChainBasic.FCStd](./DragChainBasic_22.5.FCStd)|[DragChainBasicA.FCStd](./DragChainA_22.5.FCStd)|[DragChainBasicB.FCStd](./DragChainB_22.5.FCStd)|
+| STL    ||[DragChainBasicA.stl](./stl/DragChain_22.5_A.stl)|[DragChainBasicB.stl](./stl/DragChain_22.5_B.stl)|
 
 ## Sketch
 
-![Sketch.png](./Basic/Sketch.png)
+![Sketch.png](./Images/Basic/Sketch.png)
 
 * Sketch
   * Support: XZ_Plane
@@ -27,7 +27,7 @@
 
 ### Pad
 
-![Pad.png](./Basic/Pad.png)
+![Pad.png](./Images/Basic/Pad.png)
 
 * Pad
   * Type: Length
@@ -38,7 +38,7 @@
 
 ## Sketch001
 
-![Sketch001.png](./Basic/Sketch001.png)
+![Sketch001.png](./Images/Basic/Sketch001.png)
 
 * Sketch
   * Support: XZ_Plane
@@ -51,7 +51,7 @@
 
 ### Pocket
 
-![Pocket.png](./Basic/Pocket.png)
+![Pocket.png](./Images/Basic/Pocket.png)
 
 * Pocket
   * Type: ThroughAll
@@ -61,7 +61,7 @@
 
 ## Sketch002
 
-![Sketch002.png](./Basic/Sketch002.png)
+![Sketch002.png](./Images/Basic/Sketch002.png)
 
 * Sketch
   * Support: XZ_Plane
@@ -74,7 +74,7 @@
 
 ### Pocket001
 
-![Pocket001.png](./Basic/Pocket001.png)
+![Pocket001.png](./Images/Basic/Pocket001.png)
 
 * Pocket
   * Type: Length: 22,00 mm
@@ -84,7 +84,7 @@
 
 ## Sketch003
 
-![Sketch003.png](./Basic/Sketch003.png)
+![Sketch003.png](./Images/Basic/Sketch003.png)
 
 * Sketch
   * Support: XZ_Plane
@@ -97,7 +97,7 @@
 
 ### Pocket002
 
-![Pocket002.png](./Basic/Pocket002.png)
+![Pocket002.png](./Images/Basic/Pocket002.png)
 
 * Pocket
   * Type: Length: 19,00 mm
@@ -107,7 +107,7 @@
 
 ## Sketch004
 
-![Sketch004.png](./Basic/Sketch004.png)
+![Sketch004.png](./Images/Basic/Sketch004.png)
 
 * Sketch
   * Support: YZ_Plane
@@ -120,7 +120,7 @@
 
 ### Pocket003
 
-![Pocket003.png](./Basic/Pocket003.png)
+![Pocket003.png](./Images/Basic/Pocket003.png)
 
 * Pocket
   * Type: ThroughAll
@@ -130,7 +130,7 @@
 
 ## Chamfer
 
-![Chamfer.png](./Basic/Chamfer.png)
+![Chamfer.png](./Images/Basic/Chamfer.png)
 
 * Chamfer
   * Chamfer Type: Equal distance
@@ -139,7 +139,7 @@
 
 # DragChain Basic Model A 22,5°
 
-![Sketch005A.png](./Basic/Sketch005A.png)
+![Sketch005A.png](./Images/Basic/Sketch005A.png)
 
 * Sketch
   * Support: XZ_Plane
@@ -152,7 +152,7 @@
 
 ### Pocket004A
 
-![Pocket003.png](./Basic/Pocket004A.png)
+![Pocket003.png](./Images/Basic/Pocket004A.png)
 
 * Pocket
   * Type: ThroughAll
@@ -162,7 +162,7 @@
 
 # DragChain Basic Model B 22,5°
 
-![Sketch005A.png](./Basic/Sketch005B.png)
+![Sketch005A.png](./Images/Basic/Sketch005B.png)
 
 * Sketch
   * Support: XZ_Plane
@@ -175,7 +175,7 @@
 
 ### Pocket004A
 
-![Pocket003.png](./Basic/Pocket004B.png)
+![Pocket003.png](./Images/Basic/Pocket004B.png)
 
 * Pocket
   * Type: ThroughAll
