@@ -2,11 +2,25 @@
 
 ## Slut Resultat
 
+### Basic
+
 ![DragChainBasic.png](./Basic/DragChainBasic.png)
+
+### Basic A 22,5°
+
+![DragChainBasicA.png](./Basic/Pocket004A.png)
+
+### Basic B 22,5°
+
+![DragChainBasicB.png](./Basic/Pocket004B.png)
 
 | File | Link |
 | ---  | ---  |
 | FreeCAD | [DragChainBasic.FCStd](../../FreeCad-files/DragChain/DragChainBasic_22.5.FCStd)
+| FreeCAD | [DragChainBasicA.FCStd](../../FreeCad-files/DragChain/DragChainA_22.5.FCStd)
+| STL | [DragChainBasicA.stl](../../FreeCad-files/DragChain/stl/DragChain_22.5_A.stl)
+| FreeCAD | [DragChainBasicB.FCStd](../../FreeCad-files/DragChain/DragChainB_22.5.FCStd)
+| STL | [DragChainBasicB.stl](../../FreeCad-files/DragChain/stl/DragChain_22.5_B.stl)
 
 ## Sketch
 
@@ -132,3 +146,49 @@
   * Chamfer Type: Equal distance
   * Size: 0,50 mm
   * Angle: 45° 
+
+# DragChain Basic Model A 22,5°
+
+![Sketch005A.png](./Basic/Sketch005A.png)
+
+* Sketch
+  * Support: XZ_Plane
+  * Map Mode: FlatFace
+  * Map Reversed: false
+  * Attachment Offset
+    * Angle: 0,00°
+    * Axis: [X: 0,00 Y: 0,00 z: 1,00]
+    * Position: (x: 0,00 mm, y: 0,00 mm, z: 0,00 mm)
+
+### Pocket004A
+
+![Pocket003.png](./Basic/Pocket004A.png)
+
+* Pocket
+  * Type: ThroughAll
+  * Midplane: true
+  * Reversed: false
+  * Alow Multi Face: true
+
+# DragChain Basic Model B 22,5°
+
+![Sketch005A.png](./Basic/Sketch005B.png)
+
+* Sketch
+  * Support: XZ_Plane
+  * Map Mode: FlatFace
+  * Map Reversed: false
+  * Attachment Offset
+    * Angle: 0,00°
+    * Axis: [X: 0,00 Y: 0,00 z: 1,00]
+    * Position: (x: 0,00 mm, y: 0,00 mm, z: 0,00 mm)
+
+### Pocket004A
+
+![Pocket003.png](./Basic/Pocket004B.png)
+
+* Pocket
+  * Type: ThroughAll
+  * Midplane: true
+  * Reversed: false
+  * Alow Multi Face: true
