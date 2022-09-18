@@ -2,25 +2,15 @@
 
 ## Slut Resultat
 
-### Basic
+| Basic | Basic A 22,5° | Basic B 22,5° |
+| ---   | ---           | ---           |
+|![DragChainBasic.png](./Basic/DragChainBasic.png)|![DragChainBasicA.png](./Basic/Pocket004A.png)|![DragChainBasicB.png](./Basic/Pocket004B.png)|
 
-![DragChainBasic.png](./Basic/DragChainBasic.png)
 
-### Basic A 22,5°
-
-![DragChainBasicA.png](./Basic/Pocket004A.png)
-
-### Basic B 22,5°
-
-![DragChainBasicB.png](./Basic/Pocket004B.png)
-
-| File | Link |
-| ---  | ---  |
-| FreeCAD | [DragChainBasic.FCStd](../../FreeCad-files/DragChain/DragChainBasic_22.5.FCStd)
-| FreeCAD | [DragChainBasicA.FCStd](../../FreeCad-files/DragChain/DragChainA_22.5.FCStd)
-| STL | [DragChainBasicA.stl](../../FreeCad-files/DragChain/stl/DragChain_22.5_A.stl)
-| FreeCAD | [DragChainBasicB.FCStd](../../FreeCad-files/DragChain/DragChainB_22.5.FCStd)
-| STL | [DragChainBasicB.stl](../../FreeCad-files/DragChain/stl/DragChain_22.5_B.stl)
+| File   | Basic | Basic A 22,5° | Basic B 22,5° |
+| ---    | ---   | ---           | ---           |
+|FreeCAD |[DragChainBasic.FCStd](../../FreeCad-files/DragChain/DragChainBasic_22.5.FCStd)|[DragChainBasicA.FCStd](../../FreeCad-files/DragChain/DragChainA_22.5.FCStd)|[DragChainBasicB.FCStd](../../FreeCad-files/DragChain/DragChainB_22.5.FCStd)|
+| STL    ||[DragChainBasicA.stl](../../FreeCad-files/DragChain/stl/DragChain_22.5_A.stl)|[DragChainBasicB.stl](../../FreeCad-files/DragChain/stl/DragChain_22.5_B.stl)|
 
 ## Sketch
 
