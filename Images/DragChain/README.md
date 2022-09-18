@@ -1,181 +1,134 @@
-# DragChain Bund & Top
+# DragChain Basic
 
-## DragThain_Bund
+## Slut Resultat
 
-![EndProduct.png](./Bund/EndProduct.png)
-
-| File | Link |
-| ---  | ---  |
-| FreeCAD | [DragChainBund_22.5.FCStd](../../FreeCad-files/DragChain/DragChainBund_22.5.FCStd)|
-| STL | [DragChainBund_22.5-Body.stl](../../FreeCad-files/DragChain/stl/DragChainBund_22.5-Body.stl) |
-
-### 1. Sketch
-
-![Sketch000.png](./Bund/Sketch000.png)
-
-* Sketch
-  * Support: XZ_Plane
-  * Attachment Offset
-    * Position: (x: 0,00 mm, y: 0,00 mm, z: 0,00 mm)
-
-![Pad.png](./Bund/Pad.png)
-
-* Pad
-  * Type: Length
-    * Length 26,00 mm
-
-### 2. Sketch001
-
-![Sketch001.png](./Bund/Sketch001.png)
-
-* Sketch
-  * Support: XZ_Plane
-  * Attachment Offset
-    * Position: (x: 0,00 mm, y: 0,00 mm, z: 0,00 mm)
-
-![Pocket.png](./Bund/Pocket.png)
-
-* Pocket
-  * Type: Length
-  * Midplane: true
-  * Reversed: false
-
-### 3. Sketch002
-
-![Sketch002.png](./Bund/Sketch002.png)
-
-* Sketch
-  * Support: XZ_Plane
-  * Attachment Offset
-    * Position: (x: 0,00 mm, y: 0,00 mm, z: 0,00 mm)
-
-![Pocket001.png](./Bund/Pocket001.png)
-
-* Pocket
-  * Type: Length
-  * Midplane: true
-  * Reversed: false
-
-### 4. Sketch003
-
-![Sketch003.png](./Bund/Sketch003.png)
-
-* Sketch
-  * Support: YZ_Plane
-  * Attachment Offset
-    * Position: (x: 0,00 mm, y: 0,00 mm, z: 0,00 mm)
-
-![Pocket002.png](./Bund/Pocket002.png)
-
-* Pocket
-  * Type: ThroughAll
-  * Midplane: true
-  * Reversed: false
-
-
-### 5. Sketch004
-
-![Sketch004.png](./Bund/Sketch004.png)
-
-* Sketch
-  * Support: XY_Plane
-  * Attachment Offset
-    * Position: (x: 0,00 mm, y: 0,00 mm, z: 0,00 mm)
-
-![Pocket003.png](./Bund/Pocket003.png)
-
-* Pocket
-  * Type: ThroughAll
-  * Midplane: true
-  * Reversed: false
-
-## DragThain_Top
-
-![EndProduct.png](./Top/EndProduct.png)
+![DragChainBasic.png](./Basic/DragChainBasic.png)
 
 | File | Link |
 | ---  | ---  |
-| FreeCAD | [DragChainTop_22.5.FCStd](../../FreeCad-files/DragChain/DragChainTop_22.5.FCStd)|
-| STL | [DragChainTop_22.5-Body.stl](../../FreeCad-files/DragChain/stl/DragChainTop_22.5-Body.stl) |
+| FreeCAD | [DragChainBasic.FCStd](../../FreeCad-files/DragChain/DragChainBasic_22.5.FCStd)
 
-### 1. Sketch
+## Sketch
 
-![Sketch.png](./Top/Sketch.png)
+![Sketch.png](./Basic/Sketch.png)
 
 * Sketch
   * Support: XZ_Plane
+  * Map Mode: FlatFace
+  * Map Reversed: false
   * Attachment Offset
+    * Angle: 0,00°
+    * Axis: [X: 0,00 Y: 0,00 z: 1,00]
     * Position: (x: 0,00 mm, y: 0,00 mm, z: 0,00 mm)
 
-![Pad.png](./Top/Pad.png)
+### Pad
+
+![Pad.png](./Basic/Pad.png)
 
 * Pad
   * Type: Length
-    * Length 26,00 mm
-  * Midplane: true
-  * Reversed: false
+    * Length: 26,00 mm
+    * Midplane: true
+    * Reversed: false
+    * Alow Multi Face: true
 
-### 2. Sketch001
+## Sketch001
 
-![Sketch001.png](./Top/Sketch001.png)
-
-* Sketch
-  * Support: XZ_Plane
-  * Attachment Offset
-    * Position: (x: 0,00 mm, y: 0,00 mm, z: 0,00 mm)
-
-![Pocket.png](./Top/Pocket.png)
-
-* Pocket
-  * Type: Length
-  * Midplane: true
-  * Reversed: false
-
-### 3. Sketch002
-
-![Sketch002.png](./Top/Sketch002.png)
+![Sketch001.png](./Basic/Sketch001.png)
 
 * Sketch
   * Support: XZ_Plane
+  * Map Mode: FlatFace
+  * Map Reversed: false
   * Attachment Offset
+    * Angle: 0,00°
+    * Axis: [X: 0,00 Y: 0,00 z: 1,00]
     * Position: (x: 0,00 mm, y: 0,00 mm, z: 0,00 mm)
 
-![Pocket001.png](./Top/Pocket001.png)
+### Pocket
+
+![Pocket.png](./Basic/Pocket.png)
 
 * Pocket
-  * Type: Length
+  * Type: ThroughAll
   * Midplane: true
   * Reversed: false
+  * Alow Multi Face: true
 
-### 4. Sketch003
+## Sketch002
 
-![Sketch003.png](./Top/Sketch003.png)
+![Sketch002.png](./Basic/Sketch002.png)
+
+* Sketch
+  * Support: XZ_Plane
+  * Map Mode: FlatFace
+  * Map Reversed: false
+  * Attachment Offset
+    * Angle: 0,00°
+    * Axis: [X: 0,00 Y: 0,00 z: 1,00]
+    * Position: (x: 0,00 mm, y: 0,00 mm, z: 0,00 mm)
+
+### Pocket001
+
+![Pocket001.png](./Basic/Pocket001.png)
+
+* Pocket
+  * Type: Length: 22,00 mm
+  * Midplane: true
+  * Reversed: false
+  * Alow Multi Face: true
+
+## Sketch003
+
+![Sketch003.png](./Basic/Sketch003.png)
+
+* Sketch
+  * Support: XZ_Plane
+  * Map Mode: FlatFace
+  * Map Reversed: false
+  * Attachment Offset
+    * Angle: 0,00°
+    * Axis: [X: 0,00 Y: 0,00 z: 1,00]
+    * Position: (x: 0,00 mm, y: 0,00 mm, z: 0,00 mm)
+
+### Pocket002
+
+![Pocket002.png](./Basic/Pocket002.png)
+
+* Pocket
+  * Type: Length: 19,00 mm
+  * Midplane: true
+  * Reversed: false
+  * Alow Multi Face: true
+
+## Sketch004
+
+![Sketch004.png](./Basic/Sketch004.png)
 
 * Sketch
   * Support: YZ_Plane
+  * Map Mode: FlatFace
+  * Map Reversed: false
   * Attachment Offset
+    * Angle: 0,00°
+    * Axis: [X: 0,00 Y: 0,00 z: 1,00]
     * Position: (x: 0,00 mm, y: 0,00 mm, z: 0,00 mm)
 
-![Pocket002.png](./Top/Pocket002.png)
+### Pocket003
+
+![Pocket003.png](./Basic/Pocket003.png)
 
 * Pocket
   * Type: ThroughAll
   * Midplane: true
   * Reversed: false
+  * Alow Multi Face: true
 
+## Chamfer
 
-### 5. Sketch004
+![Chamfer.png](./Basic/Chamfer.png)
 
-![Sketch004.png](./Top/Sketch004.png)
-
-* Sketch
-  * Support: XY_Plane
-  * Attachment Offset
-    * Position: (x: 0,00 mm, y: 0,00 mm, z: 0,00 mm)
-
-![Pocket003.png](./Top/Pocket003.png)
-
-* Pocket
-  * Type: ThroughAll
-  * Midplane: true
-  * Reversed: false
+* Chamfer
+  * Chamfer Type: Equal distance
+  * Size: 0,50 mm
+  * Angle: 45° 
