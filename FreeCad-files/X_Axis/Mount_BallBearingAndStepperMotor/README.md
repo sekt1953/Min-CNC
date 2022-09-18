@@ -4,6 +4,11 @@
 
 ![BallBearingAndStepperMotor_Fillet.png](./Images/BallBearingAndStepperMotor_Fillet.png)
 
+| File   | BallBearingAndStepperMotor |
+| ---    | ---           |
+|FreeCAD |[BallBearingAndStepperMotor.FCStd](./CNC-Mount_BallBearingAndStepperMotor.FCStd)|
+| STL    |[BallBearingAndStepperMotor.stl](./stl/CNC-Mount_BallBearingAndStepperMotor-Body-Leje-Motor.stl)|
+
 ## Sketch
 
 ![BallBearingAndStepperMotor_Pad-Sketch.png](./Images/BallBearingAndStepperMotor_Pad-Sketch.png)
