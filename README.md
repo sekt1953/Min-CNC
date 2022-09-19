@@ -24,7 +24,7 @@ Se hvordan mine tegninger udvikler sig her:
   * [X_Axis-Sled](./FreeCad-files/X_Axis/X_Axis-Sled/)
 
 * Tegninger kun for brug med Assembly4
-  * [AluProfile]()
+  * [AluProfile](./FreeCad-files/AluProfile/README.md)
   * [Kuglelejer]()
   * [Gevindstænger]()
   * [Nema17_Motor]()
