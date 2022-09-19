@@ -133,7 +133,7 @@
 
 ## Fillet
 
-![BallBearingAndStepperMotor_Fillet.png](./Images/Mount/Fillet_front.png)
+![Fillet_front.png](./Images/Mount/Fillet_front.png)
 
 * Fillet
   * Radius: 2,00 mm

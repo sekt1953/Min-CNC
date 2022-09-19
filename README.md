@@ -2,6 +2,20 @@
 
 Her vil jeg dele arbejdet med at designe og bygge en cnc maskine.
 
+For 3D-Printe mine FreeCAD filer, bruger jeg:
+
+* Ultimaker-Cura-5.0.0-linux.
+  * Low Quality - 0.28mm
+  * Infill: 20%
+  * Support: Touching Buildplate
+  * Build Plate Adhesion: Skirt
+* 3D-Printer: Creality CR-10 Mini
+* Filement: 
+  * Fra: Spectrum Group
+  * Type: PLA:
+  * Printing temp: 220
+  * Hot pad temp: 60
+
 Se hvordan mine tegninger udvikler sig her:
 
 * Tegninger for 3D Print
