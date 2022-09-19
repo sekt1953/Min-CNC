@@ -4,7 +4,7 @@
 
 | Front | Back |
 | --- | --- |
-|![](./Images/Fillet_front.png)|![](./Images/Fillet_back.png)|
+|![](./Images/Mount/Fillet_front.png)|![](./Images/Mount/Fillet_back.png)|
 
 | File   | X_Axis-Mount |
 | ---    | ---           |
@@ -13,7 +13,7 @@
 
 ## Sketch
 
-![BallBearingAndStepperMotor_Pad-Sketch.png](./Images/BallBearingAndStepperMotor_Pad-Sketch.png)
+![BallBearingAndStepperMotor_Pad-Sketch.png](./Images/Mount/BallBearingAndStepperMotor_Pad-Sketch.png)
 
 * Sketch
   * Support: XY_Plane
@@ -26,7 +26,7 @@
 
 ### Pad
 
-![](./Images/Pad.png)
+![](./Images/Mount/Pad.png)
 
 * Pad
   * Type: Length
@@ -41,7 +41,7 @@
 
 ## Sketch001
 
-![Sketch001.png](./Images/Sketch001.png)
+![Sketch001.png](./Images/Mount/Sketch001.png)
 
 * Sketch
   * Support: XZ_Plane
@@ -54,7 +54,7 @@
 
 ### Pocket006
 
-![Pocket.png)](./Images/Pocket.png)
+![Pocket.png)](./Images/Mount/Pocket.png)
 
 * Pocket
   * Type: ThroughAll
@@ -64,7 +64,7 @@
 
 ## Sketch002 - for M3 umbraco skruehoved
 
-![Sketch002.png](./Images/Sketch002.png)
+![Sketch002.png](./Images/Mount/Sketch002.png)
 
 * Sketch
   * Support: XY_Plane
@@ -77,7 +77,7 @@
 
 ### Pocket006
 
-![Pocket006-SkrueHoved](./Images/Pocket006-SkrueHoved.png)
+![Pocket006-SkrueHoved](./Images/Mount/Pocket006-SkrueHoved.png)
 
 * Pocket
   * Type: ThroughAll
@@ -87,7 +87,7 @@
 
 ## Sketch003 - for fordybning for motor mount
 
-![Sketch003.png](./Images/Sketch003.png)
+![Sketch003.png](./Images/Mount/Sketch003.png)
 
 * Sketch
   * Support: XY_Plane
@@ -100,7 +100,7 @@
 
 ### Pocket007
 
-![Pocket007-Motor](./Images/Pocket007-Motor.png)
+![Pocket007-Motor](./Images/Mount/Pocket007-Motor.png)
 
 * Pocket
   * Type: ThroughAll
@@ -110,7 +110,7 @@
 
 ## Sketch008 - fordybning til RASK Kuglelejer ABEC-9 8x22x7 mm
 
-![Sketch008.png](./Images/Sketch008.png)
+![Sketch008.png](./Images/Mount/Sketch008.png)
 
 * Sketch
   * Support: XY_Plane
@@ -123,7 +123,7 @@
 
 ### Pocket008-Ballbearing
 
-![Pocket008-Ballbearing.png](./Images/Pocket008-Ballbearing.png)
+![Pocket008-Ballbearing.png](./Images/Mount/Pocket008-Ballbearing.png)
 
 * Pocket
   * Type: ThroughAll
@@ -133,7 +133,7 @@
 
 ## Fillet
 
-![BallBearingAndStepperMotor_Fillet.png](./Images/BallBearingAndStepperMotor_Fillet.png)
+![BallBearingAndStepperMotor_Fillet.png](./Images/Mount/Fillet_front.png)
 
 * Fillet
   * Radius: 2,00 mm
