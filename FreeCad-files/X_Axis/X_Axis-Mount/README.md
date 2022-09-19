@@ -4,13 +4,12 @@
 
 | Front | Back |
 | --- | --- |
-| ![](./Images/Fillet_front.png) | ![](./Images/Fillet_back.png)  |
+|![](./Images/Fillet_front.png)|![](./Images/Fillet_back.png)|
 
-
-| File   | BallBearingAndStepperMotor |
+| File   | X_Axis-Mount |
 | ---    | ---           |
-|FreeCAD |[BallBearingAndStepperMotor.FCStd](./CNC-Mount_BallBearingAndStepperMotor.FCStd)|
-| STL    |[BallBearingAndStepperMotor.stl](./stl/CNC-Mount_BallBearingAndStepperMotor-Body-Leje-Motor.stl)|
+|FreeCAD |[X_Axis-Mount.FCStd](./X_Axis-Mount.FCStd)|
+| STL    |[X_Axis-Mount-Body-Leje-Motor.stl](./stl/X_Axis-Mount-Body-Leje-Motor.stl)|
 
 ## Sketch
 
@@ -138,4 +137,4 @@
 
 * Fillet
   * Radius: 2,00 mm
-  * Use All Edges: false 
+  * Use All Edges: false
