@@ -1,6 +1,6 @@
 # Min-CNC
 
-Her vil jeg dele arbejdet med at designe og bygge en cnc maskine.
+Her vil jeg dele mit arbejdet med at designe og bygge en cnc maskine.
 
 For 3D-Printe mine FreeCAD filer, bruger jeg:
 
@@ -13,8 +13,8 @@ For 3D-Printe mine FreeCAD filer, bruger jeg:
 * Filement: 
   * Fra: Spectrum Group
   * Type: PLA:
-  * Printing temp: 220
-  * Hot pad temp: 60
+  * Printing temp: 220°
+  * Hot pad temp: 60°
 
 Se hvordan mine tegninger udvikler sig her:
 
