@@ -1,8 +1,11 @@
-# BallBearingAndStepperMotor
+# X_Axis-Mount
 
 ## Slut Resultat
 
-![BallBearingAndStepperMotor_Fillet.png](./Images/BallBearingAndStepperMotor_Fillet.png)
+| Front | Back |
+| --- | --- |
+| ![](./Images/Fillet_front.png) | ![](./Images/Fillet_back.png)  |
+
 
 | File   | BallBearingAndStepperMotor |
 | ---    | ---           |
