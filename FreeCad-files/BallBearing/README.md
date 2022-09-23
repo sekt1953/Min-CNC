@@ -1,6 +1,8 @@
 # Kuglelejer
 
-## Se video her [https://www.youtube.com/watch?v=vb1Jp4uh06Q](https://www.youtube.com/watch?v=vb1Jp4uh06Q)
+Se denne gode video [FreeCAD Lesson 12 - Ball Bearing](https://www.youtube.com/watch?v=vb1Jp4uh06Q) fra 
+[Learn FreeCAD](https://www.youtube.com/channel/UC_9HwDkwxllq5lFGkYBIH9g)
+
 
 ## Slut Resultat
 
