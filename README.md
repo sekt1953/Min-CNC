@@ -25,7 +25,7 @@ Se hvordan mine tegninger udvikler sig her:
 
 * Tegninger kun for brug med Assembly4
   * [AluProfile](./FreeCad-files/AluProfile/README.md)
-  * [Kuglelejer]()
+  * [Kuglelejer](./FreeCad-files/BallBearing/README.md)
   * [Gevindstænger](./FreeCad-files/Gevinstang/README.md)
   * [Nema17_Motor]()
   * [Skruer og møtrikker]()
