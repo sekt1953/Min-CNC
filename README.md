@@ -27,5 +27,5 @@ Se hvordan mine tegninger udvikler sig her:
   * [AluProfile](./FreeCad-files/AluProfile/README.md)
   * [Kuglelejer](./FreeCad-files/BallBearing/README.md)
   * [Gevindstænger](./FreeCad-files/Gevinstang/README.md)
-  * ~~[Nema17_Motor]()~~
+  * [Nema17_Motor](./FreeCad-files/Nema17/)
   * ~~[Skruer og møtrikker]()~~
