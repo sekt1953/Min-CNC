@@ -9,12 +9,17 @@ For 3D-Printe mine FreeCAD filer, bruger jeg:
   * Infill: 20%
   * Support: Touching Buildplate
   * Build Plate Adhesion: Skirt
+* [OctoPrint](https://octoprint.org/)
+  * OctoPi running on Raspberry 4B
+  * [Download & Setup OctoPrint](https://octoprint.org/download/)
 * 3D-Printer: Creality CR-10 Mini
 * Filement: 
   * Fra: Spectrum Group
   * Type: PLA:
   * Printing temp: 220°
   * Hot pad temp: 60°
+
+
 
 Se hvordan mine tegninger udvikler sig her:
 
