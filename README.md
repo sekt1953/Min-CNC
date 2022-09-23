@@ -25,12 +25,16 @@ Se hvordan mine tegninger udvikler sig her:
 
 * Tegninger for 3D Print
   * [DragChain](./FreeCad-files/DragChain/README.md)
-  * [X_Axis-Mount](./FreeCad-files/X_Axis/X_Axis-Mount/README.md)
-  * [X_Axis-Sled](./FreeCad-files/X_Axis/X_Axis-Sled/)
+  * X_Axis
+    * [X_Axis-Mount](./FreeCad-files/X_Axis/X_Axis-Mount/README.md)
+    * [X_Axis-Sled](./FreeCad-files/X_Axis/X_Axis-Sled/)
+  * Y_Axis
+  * Z_Axis
 
 * Tegninger kun for brug med Assembly4
   * [AluProfile](./FreeCad-files/AluProfile/README.md)
   * [Kuglelejer](./FreeCad-files/BallBearing/README.md)
   * [Gevindstænger](./FreeCad-files/Gevinstang/README.md)
   * [Nema17_Motor](./FreeCad-files/Nema17/)
-  * ~~[Skruer og møtrikker]()~~
+  * Skruer og møtrikker
+  
