@@ -8,7 +8,7 @@
 
 | File   | X_Axis-Sled | X_Axis-Sled-InsidePart | X_Axis-Sled-OutsidePart |
 | ---    | ---           | ---           |
-|FreeCAD |[X_Axis-Slade-004.FCStd](./CNC-Slade-004.FCStd)| | |
+|FreeCAD |[X_Axis-Slade-004.FCStd](./X-Axis-Slade-004.FCStd)| | |
 | STL    | |[X_Axis-Slade-004-Inside.stl.stl](./stl/CNC-Slade-004-Inside.stl)|[X_Axis-Slade-004-Outside.stl](./stl/CNC-Slade-004-Outside.stl)|
 
 ## Sketch
@@ -83,9 +83,9 @@
 ![Pocket001](./Images/Sled/Pocket001.png)
 
 * Pocket
-  * Type: 
+  * Type: Length
   * Length: 4,00 mm
-*Sketch Based  
+* Sketch Based  
   * Midplane: false
   * Reversed: true
   * Alow Multi Face: true
@@ -95,44 +95,96 @@
 ![Sketch003.png](./Images/Sled/Sketch003.png)
 
 * Sketch
-  * Support: XY_Plane
+  * Support: YZ_Plane
   * Map Mode: FlatFace
   * Map Reversed: false
   * Attachment Offset
     * Angle: 0,00°
     * Axis: [X: 0,00 Y: 0,00 z: 1,00]
-    * Position: (x: 0,00 mm, y: 0,00 mm, z: 3,00 mm)
+    * Position: (x: 0,00 mm, y: 0,00 mm, z: 0,00 mm)
 
 ### Pocket002
 
-![Pocket002](./Images)
+![Pocket002](./Images/Sled/Pocket002.png)
 
 * Pocket
   * Type: ThroughAll
-  * Midplane: false
+* Sketch Based
+  * Midplane: true
   * Reversed: false
   * Alow Multi Face: true
 
 ## Sketch004
 
-![Sketch004.png](./Images)
+![Sketch004.png](./Images/Sled/Sketch004.png)
 
 * Sketch
-  * Support: XY_Plane
+  * Support: YZ_Plane
   * Map Mode: FlatFace
   * Map Reversed: false
   * Attachment Offset
     * Angle: 0,00°
     * Axis: [X: 0,00 Y: 0,00 z: 1,00]
-    * Position: (x: 0,00 mm, y: 0,00 mm, z: 7,00 mm)
+    * Position: (x: 0,00 mm, y: 0,00 mm, z: 5,00 mm)
 
 ### Pocket003
 
-![Pocket003.png](./Images)
+![Pocket003.png](./Images/Sled/Pocket003.png)
 
 * Pocket
-  * Type: ThroughAll
+  * Type: Length
+  * Length: 30,40  mm
+* Sketch Based
   * Midplane: false
   * Reversed: true
   * Alow Multi Face: true
 
+## Sketch005
+
+![Sketch005.png](./Images/Sled/Sketch005.png)
+
+* Sketch
+  * Support: YZ_Plane
+  * Map Mode: FlatFace
+  * Map Reversed: false
+  * Attachment Offset
+    * Angle: 0,00°
+    * Axis: [X: 0,00 Y: 0,00 z: 1,00]
+    * Position: (x: 0,00 mm, y: 0,00 mm, z: -5,00 mm)
+
+### Pocket004
+
+![Pocket004.png](./Images/Sled/Pocket004.png)
+
+* Pocket
+  * Type: Length
+  * Length: 30,40  mm
+* Sketch Based
+  * Midplane: false
+  * Reversed: false
+  * Alow Multi Face: true
+
+## Sketch006
+
+![Sketch006.png](./Images/Sled/Sketch006.png)
+
+* Sketch
+  * Support: YZ_Plane
+  * Map Mode: FlatFace
+  * Map Reversed: false
+  * Attachment Offset
+    * Angle: 0,00°
+    * Axis: [X: 0,00 Y: 0,00 z: 1,00]
+    * Position: (x: 0,00 mm, y: 0,00 mm, z: 0,00 mm)
+
+### Pocket005
+
+![Pocket005.png](./Images/Sled/Pocket005.png)
+
+* Pocket
+  * Type: Length
+  * Length: 10,10  mm
+* Sketch Based
+  * Midplane: true
+  * Reversed: true
+  * Alow Multi Face: true
