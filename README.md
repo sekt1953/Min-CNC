@@ -27,7 +27,7 @@ Se hvordan mine tegninger udvikler sig her:
   * [DragChain](./FreeCad-files/DragChain/README.md)
   * X_Axis
     * [X_Axis-Mount](./FreeCad-files/X_Axis/X_Axis-Mount/README.md)
-    * [X_Axis-Sled](./FreeCad-files/X_Axis/X_Axis-Sled/)
+    * [X_Axis-Sled](./FreeCad-files/X_Axis/X_Axis-Sled/README.md)
   * Y_Axis
   * Z_Axis
 
