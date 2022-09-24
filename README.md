@@ -37,9 +37,4 @@ Se hvordan mine tegninger udvikler sig her:
   * Skruer og møtrikker
 
 Jeg har to Controller som jeg kan bruge i dette project
-* GeeeTech 
-  * ![](./Controller/Images/GT2560_layout.png)
-  * [GT2560 Manual](https://www.geeetech.com/wiki/index.php/GT2560)
-  * ![](./Controller/Images/700px-GT2560_wiring.jpg)
-* BigTreeTech ![BTT_SKR_V1.4.png](./Controller/Images/BTT_SKR_V1.4.png)
-  * [BTT SKR V1.4](https://github.com/bigtreetech/BIGTREETECH-SKR-V1.3/tree/master/BTT%20SKR%20V1.4)
+* [Controller GT2560 & BTT SKR V1.4](./Controller/README.md)

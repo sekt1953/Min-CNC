@@ -2,6 +2,16 @@
 
 ## Link:
 
+Jeg har to Controller som jeg kan bruge i dette project
+* GeeeTech 
+  * ![](./Controller/Images/GT2560_layout.png)
+  * [GT2560 Manual](https://www.geeetech.com/wiki/index.php/GT2560)
+  * ![](./Controller/Images/700px-GT2560_wiring.jpg)
+  * [Link til GT2560 page](https://www.geeetech.com/wiki/index.php/GT2560#Get_Started)
+  * [www.geeetech.com](https://www.geeetech.com/forum/viewtopic.php?f=20&t=17046)
+* BigTreeTech ![BTT_SKR_V1.4.png](./Controller/Images/BTT_SKR_V1.4.png)
+  * [BTT SKR V1.4](https://github.com/bigtreetech/BIGTREETECH-SKR-V1.3/tree/master/BTT%20SKR%20V1.4)
+
 * [Link til GT2560 page](https://www.geeetech.com/wiki/index.php/GT2560#Get_Started)
 * [www.geeetech.com](https://www.geeetech.com/forum/viewtopic.php?f=20&t=17046)
 
