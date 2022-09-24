@@ -19,8 +19,6 @@ For 3D-Printe mine FreeCAD filer, bruger jeg:
   * Printing temp: 220°
   * Hot pad temp: 60°
 
-
-
 Se hvordan mine tegninger udvikler sig her:
 
 * Tegninger for 3D Print
@@ -37,4 +35,10 @@ Se hvordan mine tegninger udvikler sig her:
   * [Gevindstænger](./FreeCad-files/Gevinstang/README.md)
   * [Nema17_Motor](./FreeCad-files/Nema17/)
   * Skruer og møtrikker
+
+Jeg har to Controller som jeg kan bruge i dette project
+* GeeeTech
+  * [GT2560](https://www.geeetech.com/wiki/index.php/GT2560)
+* BigTreeTech
+  * [BTT SKR V1.4](https://github.com/bigtreetech/BIGTREETECH-SKR-V1.3/tree/master/BTT%20SKR%20V1.4)
   
