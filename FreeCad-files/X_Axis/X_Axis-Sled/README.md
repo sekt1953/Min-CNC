@@ -1,19 +1,21 @@
-# X_Axis-Sled-004
+# X_Axis-Sled
 
-## Slut Resultat
+## Box
 
-| InsidePart | Midle | Outsidepart |
+### Box Slut Resultat
+
+| InsidePart | Center Cut | Outsidepart |
 | --- | --- | --- |
-|![](./Images/Sled/InsidePart.png)|![](./Images/Sled/Midle.png)|![](./Images/Sled/OutsidePart.png)|
+|![](./Images/Box/InsidePart.png)|![](./Images/Box/Midle.png)|![](./Images/Box/OutsidePart.png)|
 
 | File   | X_Axis-Sled | X_Axis-Sled-InsidePart | X_Axis-Sled-OutsidePart |
 | ---    | ---           | ---           |
 |FreeCAD |[X_Axis-Slade-004.FCStd](./X-Axis-Slade-004.FCStd)| | |
 | STL    | |[X_Axis-Slade-004-Inside.stl.stl](./stl/CNC-Slade-004-Inside.stl)|[X_Axis-Slade-004-Outside.stl](./stl/CNC-Slade-004-Outside.stl)|
 
-## Sketch
+### Sketch
 
-![](./Images/Sled/Sketch.png)
+![](./Images/Box/Sketch.png)
 
 * Attachment
   * Support: XY_Plane
@@ -26,7 +28,7 @@
 
 ### Pad
 
-![Pad.png](./Images/Sled/Pad.png)
+![Pad.png](./Images/Box/Pad.png)
 
 * Pad
   * Type: Length
@@ -40,9 +42,9 @@
   * Type: Length
     * Length 30,00 mm
 
-## Sketch001
+### Sketch001
 
-![Sketch001.png](./Images/Sled/Sketch001.png)
+![Sketch001.png](./Images/Box/Sketch001.png)
 
 * Sketch
   * Support: XY_Plane
@@ -55,7 +57,7 @@
 
 ### Pocket
 
-![Pocket.png)](./Images/Sled/Pocket.png)
+![Pocket.png)](./Images/Box/Pocket.png)
 
 * Pocket
   * Type: Length
@@ -65,9 +67,9 @@
   * Reversed: false
   * Alow Multi Face: true
 
-## Sketch002
+### Sketch002
 
-![Sketch002.png](./Images/Sled/Sketch002.png)
+![Sketch002.png](./Images/Box/Sketch002.png)
 
 * Sketch
   * Support: XY_Plane
@@ -80,7 +82,7 @@
 
 ### Pocket001
 
-![Pocket001](./Images/Sled/Pocket001.png)
+![Pocket001](./Images/Box/Pocket001.png)
 
 * Pocket
   * Type: Length
@@ -90,9 +92,9 @@
   * Reversed: true
   * Alow Multi Face: true
 
-## Sketch003
+### Sketch003
 
-![Sketch003.png](./Images/Sled/Sketch003.png)
+![Sketch003.png](./Images/Box/Sketch003.png)
 
 * Sketch
   * Support: YZ_Plane
@@ -105,7 +107,7 @@
 
 ### Pocket002
 
-![Pocket002](./Images/Sled/Pocket002.png)
+![Pocket002](./Images/Box/Pocket002.png)
 
 * Pocket
   * Type: ThroughAll
@@ -114,9 +116,9 @@
   * Reversed: false
   * Alow Multi Face: true
 
-## Sketch004
+### Sketch004
 
-![Sketch004.png](./Images/Sled/Sketch004.png)
+![Sketch004.png](./Images/Box/Sketch004.png)
 
 * Sketch
   * Support: YZ_Plane
@@ -129,7 +131,7 @@
 
 ### Pocket003
 
-![Pocket003.png](./Images/Sled/Pocket003.png)
+![Pocket003.png](./Images/Box/Pocket003.png)
 
 * Pocket
   * Type: Length
@@ -139,9 +141,9 @@
   * Reversed: true
   * Alow Multi Face: true
 
-## Sketch005
+### Sketch005
 
-![Sketch005.png](./Images/Sled/Sketch005.png)
+![Sketch005.png](./Images/Box/Sketch005.png)
 
 * Sketch
   * Support: YZ_Plane
@@ -154,7 +156,7 @@
 
 ### Pocket004
 
-![Pocket004.png](./Images/Sled/Pocket004.png)
+![Pocket004.png](./Images/Box/Pocket004.png)
 
 * Pocket
   * Type: Length
@@ -164,9 +166,9 @@
   * Reversed: false
   * Alow Multi Face: true
 
-## Sketch006
+### Sketch006
 
-![Sketch006.png](./Images/Sled/Sketch006.png)
+![Sketch006.png](./Images/Box/Sketch006.png)
 
 * Sketch
   * Support: YZ_Plane
@@ -179,7 +181,7 @@
 
 ### Pocket005
 
-![Pocket005.png](./Images/Sled/Pocket005.png)
+![Pocket005.png](./Images/Box/Pocket005.png)
 
 * Pocket
   * Type: Length
@@ -188,3 +190,75 @@
   * Midplane: true
   * Reversed: true
   * Alow Multi Face: true
+
+## X_Axis-SledGuide
+
+### Guide Slut Resultat
+
+| InsidePart |
+| --- |
+|![](./Images/Guide/Finish.png)|
+
+| File   | X_Axis- |
+| ---    | ---     |
+ |FreeCAD |[X_Axis-Slade](./X-Axis-Slade-004.FCStd)|
+| STL    | [X_Axis-Slade](./stl/CNC-Slade-005-Guide.stl)
+
+### Sketch007
+
+![Sketch007.png](./Images/Guide/Sketch007.png)
+
+* Attachment
+  * Support: XY_Plane001
+  * Map Mode: FlatFace
+  * Map Reversed: false
+  * Attachment Offset
+    * Angle: 0,00°
+    * Axis: [X: 0,00 Y: 0,00 z: 1,00]
+    * Position: (x: 0,00 mm, y: 0,00 mm, z: 0,00 mm)
+
+### Pad001
+
+![Pad001.png](./Images/Guide/Pad001.png)
+
+* Pad
+  * Type: Length
+    * Length: 90,00 mm
+* Sketch Based  
+  * Midplane: false
+  * Reversed: false
+  * Alow Multi Face: true
+
+### Sketch008
+
+![Sketch008.png](./Images/Guide/Sketch008.png)
+
+* Sketch
+  * Support: XZ_Plane001
+  * Map Mode: FlatFace
+  * Map Reversed: false
+  * Attachment Offset
+    * Angle: 0,00°
+    * Axis: [X: 0,00 Y: 0,00 z: 1,00]
+    * Position: (x: 0,00 mm, y: 0,00 mm, z: 15,00 mm)
+
+### Pocket006
+
+![Pocket006.png)](./Images/Guide/Pocket006.png)
+
+* Pocket
+  * Type: ThroughAll
+* Sketch Based
+  * Midplane: true
+  * Reversed: false
+  * Alow Multi Face: true
+
+### Chamfer
+
+![Chamfer.png](./Images/Guide/Chamfer.png)
+
+* Chamfer
+  * Chamfer Type: Equal distance
+  * Size: 1,00 mm
+  * Angle: 45,00°
+  * Use All Edges: false
