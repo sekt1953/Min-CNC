@@ -12,12 +12,16 @@ Jeg har to Controller som jeg kan bruge i dette project
 * BigTreeTech ![BTT_SKR_V1.4.png](./Images/BTT_SKR_V1.4.png)
   * [github.com/bigtreetech - BTT SKR V1.4](https://github.com/bigtreetech/BIGTREETECH-SKR-V1.3/tree/master/BTT%20SKR%20V1.4)
 
-## TOM's Guide 
+## Youtube Guide 
 
-* [Firmware Basics](https://www.youtube.com/watch?v=3gwWVFtdg-4)
-* [Understanding steps per millimeter and using Prusa's calculator](https://www.youtube.com/watch?v=VIHgDiCCY0Y)
-* [Calibrating your extruder](https://www.youtube.com/watch?v=YUPfBJz3I6Y)
-* [Using Marlin's PID autotune](https://www.youtube.com/watch?v=APzJfYAgFkQ)
+* [Chris Riley](https://www.youtube.com/c/ChrisRiley)
+  * [Marlin 2.0 On 8-Bit Boards - Upgrade - CR10 - VSCode - Chris's Basement](https://www.youtube.com/watch?v=Ib188-ACa08)
+  * [3D Printer Fix Up - Geeetech Pro B](https://www.youtube.com/c/ChrisRiley/search?query=Geeetech%20Pro)
+* TOM's Guide
+  * [Firmware Basics](https://www.youtube.com/watch?v=3gwWVFtdg-4)
+  * [Understanding steps per millimeter and using Prusa's calculator](https://www.youtube.com/watch?v=VIHgDiCCY0Y)
+  * [Calibrating your extruder](https://www.youtube.com/watch?v=YUPfBJz3I6Y)
+  * [Using Marlin's PID autotune](https://www.youtube.com/watch?v=APzJfYAgFkQ)
 
 ## Marlin Firmware
 
